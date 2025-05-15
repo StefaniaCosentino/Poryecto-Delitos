@@ -12,6 +12,8 @@ Se tomó como input dos set de datos distintos (Delitos 2022 y Delitos 2023), lo
 
 Pasos realizados:
 
+• Creación de Template en Adobe Illustrator.
+
 • Limpieza y modelado de datos en Power Query.
 
 • Apendeo de tablas de delitos 2022 y 2023 para formar una unica tabla que contenga todos los datos (Delitos2022/23)

@@ -29,4 +29,4 @@ Pasos realizados:
 • Publicación del reporte en el servicio de Microsoft.
 
 
---> 📊 Informe : (https://app.powerbi.com/groups/me/reports/25f2fc20-9ca2-45a6-a59c-35d12b635080/7e646ef3163aaa2d11a4?experience=power-bi)
+--> 📊 Informe : ("https://app.powerbi.com/view?r=eyJrIjoiMzE2NTY1YzYtMTQyMy00OGEyLTlhMDctYjdiNTJiODRhYThkIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9")

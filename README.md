@@ -2,7 +2,7 @@
 Analisis de delitos en la Ciudad Autónoma de Buenos Aires durante los años 2022-2023
 
 <p align="center">
-<img align="center" alt="tablero1" width="400" src="https://github.com/StefaniaCosentino/Poryecto-Delitos/blob/main/Proyecto%20Delitos.png">
+<img align="center" alt="tablero1" width="400" src="https://github.com/StefaniaCosentino/Proyecto-Delitos-CABA/blob/main/Proyecto%20Delitos.png"
 </p>
 
 A continuación se muestra el proyecto de Delitos de la Ciudad Autónoma de Buenos Aires durante los periodos 2022-2023 (en curso):
